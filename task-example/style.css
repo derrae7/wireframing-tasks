@@ -1,0 +1,58 @@
+.header {
+  color: white;
+  background-color: skyblue;
+  font-family: helvetica;
+  font-size: 75px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  color: white;
+  background-color: green;
+  display: inline-block;
+  margin-left: 50px;
+}
+.subtitle {
+  color: white;
+  background-color: purple;
+  display: inline-block;
+  margin: 10px;
+}
+.subheader-1 {
+  background-color: orange;
+  margin: 10px;
+  display: inline-block;
+}
+.subheader-2 {
+  background-color: orange;
+  margin: 10px;
+  display: inline-block;
+}
+.subheader-3 {
+  background-color: orange;
+  margin: 10px;
+  display: inline-block;
+}
+.main-body {
+  color: black;
+  background-color: rgb(219, 44, 219);
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+}
+.stanza-1 {
+  color: black;
+  background-color: cornflowerblue;
+  margin: 10px;
+}
+.stanza-2 {
+  color: black;
+  background-color: cornflowerblue;
+  margin: 10px;
+}
+.stanza-3 {
+  color: black;
+  background-color: cornflowerblue;
+  margin: 10px;
+}
